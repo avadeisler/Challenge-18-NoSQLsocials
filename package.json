@@ -5,9 +5,18 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "lint:commit":""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^7.6.13"
+  },
+  "devDependencies": {
+    "nodemod": "^3.0.6",
+    "pre-commit": "^1.2.2"
+  }
 }
