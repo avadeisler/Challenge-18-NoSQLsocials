@@ -22,6 +22,7 @@ For this challenge, we used Insomnia and Mongo DB.
 To use, npm install nodemod, express and mongoose.
 
 Demo video link:
-[text](<../../../Videos/NOSQLSocials demo video.mkv>)
+
+[NOSQLSocials](https://youtu.be/6jPKsZuw7C8)
 
 Github Repo: https://github.com/avadeisler/NoSQLsocials.git
