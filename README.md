@@ -19,6 +19,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 For this challenge, we used Insomnia and Mongo DB.
 
+To use, npm install nodemod, express and mongoose.
+
 Demo video link:
 [text](<../../../Videos/NOSQLSocials demo video.mkv>)
 
