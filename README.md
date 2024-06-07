@@ -17,4 +17,9 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove fri
 
-For this challenge, you will use Insomnia and Mongo DB.
+For this challenge, we used Insomnia and Mongo DB.
+
+Demo video link:
+[text](<../../../Videos/NOSQLSocials demo video.mkv>)
+
+Github Repo: https://github.com/avadeisler/NoSQLsocials.git
